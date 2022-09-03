@@ -6,15 +6,7 @@ Dive into the tutorial here: https://www.30daysofweb3.xyz/en/curriculum/9-wrappi
 
 First, fork and clone this starter repo. You can find similar instructions on forking and cloning a repo here: https://www.30daysofweb3.xyz/en/curriculum/3-writing-your-smart-contract/1-dev-setup
 
-After you've cloned the repo, open this project in your IDE and then install all dependencies by running this command in your terminal:
-
-```bash
-npm install
-# or
-yarn install
-```
-
-Then run the development server:
+After you've cloned the repo, open this project in your IDE and then run the development server in your terminal:
 
 ```bash
 npm run dev
